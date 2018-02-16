@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5388" started-at="2018-02-15T06:53:55Z" finished-at="2018-02-15T06:54:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5388" started-at="2018-02-15T06:53:55Z" finished-at="2018-02-15T06:54:01Z">
+      <class name="cardioscan.CardioScanValidLoginTest">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:cardioscan.CardioScanValidLoginTest@46d56d67]" name="initializeDriver" is-config="true" duration-ms="3973" started-at="2018-02-15T17:53:55Z" finished-at="2018-02-15T17:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="cardioScanInvalidLogin()[pri:0, instance:cardioscan.CardioScanValidLoginTest@46d56d67]" name="cardioScanInvalidLogin" duration-ms="1333" started-at="2018-02-15T17:53:59Z" finished-at="2018-02-15T17:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cardioScanInvalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:cardioscan.CardioScanValidLoginTest@46d56d67]" name="tearDown" is-config="true" duration-ms="61" started-at="2018-02-15T17:54:01Z" finished-at="2018-02-15T17:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- cardioscan.CardioScanValidLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
